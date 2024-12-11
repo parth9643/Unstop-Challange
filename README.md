@@ -48,7 +48,7 @@ Follow these steps to set up and run the application:
 1. **Clone the Repository:**
 
    ```bash
-   git clone [[https://github.com/parth9643/Unstop-Challange.git](https://github.com/parth9643/Unstop-Challange.git)]
+   git clone https\://github.com/parth9643/Unstop-Challange.git
    cd Unstop-Challenge
    ```
 
@@ -148,4 +148,6 @@ I am a Full Stack Web Developer with experience in designing, developing, and de
 - [LinkedIn](#)
 
 [https://www.linkedin.com/in/parthshukla9643/](https://www.linkedin.com/in/parthshukla9643/)
+
+
 
