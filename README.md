@@ -48,7 +48,7 @@ Follow these steps to set up and run the application:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/KunalPandharkar/Unstop-Challenge.git
+   git clone https://github.com/parth9643/Unstop-Challange.git
    cd Unstop-Challenge
    ```
 
